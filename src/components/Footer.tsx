@@ -7,7 +7,7 @@ export function Footer() {
             Hear Different
           </h2>
           <p className="max-w-md text-lg text-gray-400">
-            Bereit, anders zu hören? Entdecke GEERS XEEX und werde Teil einer
+            Bereit, anders zu hören? Entdecke GEERS und werde Teil einer
             neuen Ära.
           </p>
           <a
